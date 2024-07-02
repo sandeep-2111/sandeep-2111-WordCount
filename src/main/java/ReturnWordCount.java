@@ -6,6 +6,6 @@ public class ReturnWordCount {
      */
     public int count(String in){
         String s[]=in.split(" ");
-        return s.length;
+        return s.length ;
     }
 }
